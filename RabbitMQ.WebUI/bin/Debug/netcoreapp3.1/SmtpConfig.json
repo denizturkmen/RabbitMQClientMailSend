@@ -1,0 +1,7 @@
+{
+  "Host": "smtp.gmail.com",
+  "Port": "587",
+  "User": "denizmaildeneme@gmail.com",
+  "Password": "Dd.123456",
+  "UseSSL": "true"
+}
